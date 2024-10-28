@@ -22,9 +22,9 @@ In the initial phase of the Data cleaning and preparations, I performed the foll
 - Handling missing variables
 - Data cleaning and formatting
 
-- ### Data sheet
+- ### Data visualization
 ---
-[Power_BI_file](https://github.com/Christabel-Glory/SuperStores_Dashboard[1]/blob/main/SuperStores%20Dashboard[1].pbix)
+[PowerBI file]
 
 ⭐⭐⭐
 
