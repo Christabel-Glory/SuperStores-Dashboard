@@ -21,3 +21,11 @@ In the initial phase of the Data cleaning and preparations, I performed the foll
 - Data loading and Inspection
 - Handling missing variables
 - Data cleaning and formatting
+
+- ### Data sheet
+---
+[Power_BI_file](https://github.com/Christabel-Glory/Super_Stores_Dashboard/blob/main/SuperStores%20Dashboard.pbix)
+
+⭐⭐⭐
+
+
